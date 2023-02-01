@@ -1,2 +1,2 @@
-# 16_List_and_Tuple
-List and tuple data types
+# 17_List
+List data type is represented by a SQUARE BACKET []
